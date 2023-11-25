@@ -1,0 +1,38 @@
+[
+{
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+        "title": "Remera Hombre",
+        "description": "remera negra",
+        "price": "6000.00",
+        "slug": "remera-hombre",
+        "image": "products/6085993-puente_gnc_visual.jpg",
+        "created_at": "2023-11-24T20:12:42.364Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+        "title": "Jean Dama",
+        "description": "jean dama",
+        "price": "10900.00",
+        "slug": "jean-dama",
+        "image": "products/6008534-ventnafinan.png",
+        "created_at": "2023-11-24T20:19:18.262Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+        "title": "Gorra Roja",
+        "description": "gorra roja",
+        "price": "4500.00",
+        "slug": "gorra-roja",
+        "image": "products/6068094-ejemplo.png",
+        "created_at": "2023-11-24T20:19:34.226Z"
+    }
+}
+]
